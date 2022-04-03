@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".addMemberActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+
+
+    <TextView
+        android:id="@+id/add_member_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="122dp"
+        android:paddingBottom="100dp"/>
+
+    <TextView
+        android:id="@+id/NewGroupLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="please write name of new member!"
+        tools:layout_editor_absoluteX="48dp" />
+
+    <EditText
+        android:id="@+id/NewGroupName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="266dp" />
+
+
+    <Button
+        android:id="@+id/CreateMember"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create Member"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="454dp"
+        android:layout_marginBottom="100dp"
+        android:layout_marginTop="50dp"/>
+</LinearLayout>

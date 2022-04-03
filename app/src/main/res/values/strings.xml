@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CRS Android</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="sign_out_button">Sign Out</string>
+    <string name="conference_room_button">Conference Rooms</string>
+    <string name="conference_room_heading">Conference rooms</string>
+    <string name="add_conference_room_button">Add conference room</string>
+    <string name="delete_conference_room_button">Delete conference room</string>
+    <string name="book_conference_room_button">Book conference room</string>
+    <string name="group_button">Groups</string>
+    <string name="login_text">Already have \n an account?</string>
+    <string name="register_text">Don\'t have\nan account?</string>
+    <string name="booking_text">You are booking conference room:</string>
+    <string name="booking_conference_room_text">%1$s</string>
+    <string name="book_room_button">Book room</string>
+    <string name="date_from_text">Date From:</string>
+    <string name="time_from_text">Time From:</string>
+    <string name="date_to_text">Date to:</string>
+    <string name="time_to_text">Time to:</string>
+    <string name="book_for_text">Book for:</string>
+    <string name="add_group">Add Group</string>
+    <string name="group_header">Groups!</string>
+    <string name="username_edit_text">Username</string>
+    <string name="password_edit_text">Password</string>
+    <string name="sign_in_button">SIGN IN</string>
+    <string name="login_to_your_account_text">Login to your account</string>
+    <string name="register_at_login_screen_button">Register</string>
+    <string name="wrong_username_or_password_toast">Wrong Username or Password!</string>
+    <string name="sign_up_for_an_account_text">Sign up for an account</string>
+    <string name="sign_up_button">Sign up</string>
+</resources>
